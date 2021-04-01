@@ -1,7 +1,7 @@
 # gnverify
 
 ```text
-IMPORTANT: This project was moved to https://github.com/gnames/gnverifier
+IMPORTANT: This project is moved to https://github.com/gnames/gnverifier
 ```
 
 Takes a name or a list of names and verifies them against a variety of
